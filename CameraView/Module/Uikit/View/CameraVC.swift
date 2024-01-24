@@ -141,9 +141,6 @@ class CameraVC: UIViewController, AVCapturePhotoCaptureDelegate {
             height: self.view.bounds.height
         )
 
-
-      
-        
         guard let imageToCrop = newImage else {
             return
         }

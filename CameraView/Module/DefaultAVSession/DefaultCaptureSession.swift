@@ -34,7 +34,7 @@ class DefaultCaptureSession: UIViewController {
     
     private lazy var pickGallery: UIButton = {
         let view = UIButton()
-        view.setTitle("Pick from gallery", for: .normal)
+        view.setTitle("SwiftUI Camera", for: .normal)
         view.isUserInteractionEnabled = true
         view.backgroundColor = .systemBlue
         view.translatesAutoresizingMaskIntoConstraints = false
