@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE8C2626-1FCC-4224-A887-AB2F88CD5F9A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09B02F13-01FA-41C5-B550-B36CFA22F904"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CameraView/Module/Uikit/CameraUIkitService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "setupCamera()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09B02F13-01FA-41C5-B550-B36CFA22F904 - 914e451a16916c47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CameraView.CameraUIkitService.setupCamera() -&gt; ()"
+                  moduleName = "CameraView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aruna_020/Documents/Project/iOS/CameraView/CameraView/Module/Uikit/CameraUIkitService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1236">
+               </Location>
+               <Location
+                  uuid = "09B02F13-01FA-41C5-B550-B36CFA22F904 - 914e451a16916c47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CameraView.CameraUIkitService.setupCamera() -&gt; ()"
+                  moduleName = "CameraView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aruna_020/Documents/Project/iOS/CameraView/CameraView/Module/Uikit/CameraUIkitService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
